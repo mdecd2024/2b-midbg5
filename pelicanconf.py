@@ -7,7 +7,7 @@ SITENAME = '協同產品設計實習bg5'
 # 不要用文章所在目錄作為類別
 USE_FOLDER_AS_CATEGORY = False
 
-#PATH = 'markdown'
+#PATH = 'combined_markdown'
 
 # 開始將組員的個別網誌目錄納入分組倉儲中 and skip copying .md file under pages directory
 import os
@@ -17,7 +17,7 @@ import shutil
 input_directories = ['markdown', '41123220/markdown','41123222/markdown']
 
 # Temporary directory to store combined Markdown files
-combined_directory = 'combined_markdown'
+combined_directory = 'markdown'
 
 # Create the combined directory if it doesn't exist
 if not os.path.exists(combined_directory):
