@@ -17,7 +17,7 @@ import shutil
 input_directories = ['markdown', '41123220/markdown','41123222/markdown']
 
 # Temporary directory to store combined Markdown files
-combined_directory = 'markdown'
+combined_directory = 'combined_markdown'
 
 # Create the combined directory if it doesn't exist
 if not os.path.exists(combined_directory):
