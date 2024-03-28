@@ -3,18 +3,18 @@
 from __future__ import unicode_literals
 
 AUTHOR = '2b-midbg5'
-SITENAME = '協同產品設計實習bg5'
+SITENAME = '協同產品設計bg5'
 # 不要用文章所在目錄作為類別
 USE_FOLDER_AS_CATEGORY = False
 
-#PATH = 'combined_markdown'
+#PATH = 'markdown'
 
 # 開始將組員的個別網誌目錄納入分組倉儲中 and skip copying .md file under pages directory
 import os
 import shutil
 
 # Directories you want to include, 包含分組倉儲中的 markdown 與學員子模組對應目錄下的 markdown 等目錄中的 .md 網誌原始檔案
-input_directories = ['markdown', '41123220/markdown','41123222/markdown']
+input_directories = ['markdown', '41123220/markdown']
 
 # Temporary directory to store combined Markdown files
 combined_directory = 'combined_markdown'
