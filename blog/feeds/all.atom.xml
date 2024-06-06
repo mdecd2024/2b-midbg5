@@ -1,44 +1,242 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計bg5</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-06T06:50:44+08:00</updated><entry><title>41123222 w15</title><link href="./41123222%20w15.html" rel="alternate"></link><published>2024-05-30T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>41123222</name></author><id>tag:None,2024-05-30:./41123222 w15.html</id><summary type="html">&lt;p&gt;2024 Spring 每周網誌心得.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計bg5</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-06T06:56:33+08:00</updated><entry><title>41123203 bg5 W13</title><link href="./41123203%20bg5%20w13.html" rel="alternate"></link><published>2024-05-30T15:44:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123203</name></author><id>tag:None,2024-05-30:./41123203 bg5 w13.html</id><summary type="html">&lt;p&gt;2024 Spring 每週心得&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 每週心得&lt;/p&gt;
+
+
+&lt;h1&gt;w13心得&lt;/h1&gt;</content><category term="41123203 bg5 w13"></category><category term="網誌編寫"></category></entry><entry><title>41123202 bg5 w15</title><link href="./41123202%20bg5%20w15.html" rel="alternate"></link><published>2024-05-30T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123202</name></author><id>tag:None,2024-05-30:./41123202 bg5 w15.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+
+
+&lt;h1&gt;w15網誌心得&lt;/h1&gt;
+&lt;p&gt;這周我們組別一起組裝了平衡鋼球再組的時候有些錯誤的拘束，後來慢慢地調整連桿之間的作動，最後我們也匯出成STL，再導入CoppeliaSim也放入插銷結果在試轉時發現尺吋畫錯了只好重新來過。&lt;/p&gt;</content><category term="41123202 bg5 w15"></category><category term="網誌編寫"></category></entry><entry><title>41123222 w15</title><link href="./41123222%20w15.html" rel="alternate"></link><published>2024-05-30T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123222</name></author><id>tag:None,2024-05-30:./41123222 w15.html</id><summary type="html">&lt;p&gt;2024 Spring 每周網誌心得.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 每周網誌心得.&lt;/p&gt;
 
 
 &lt;h1&gt;w15網誌心得&lt;/h1&gt;
-&lt;p&gt;經過上周的程式作畫，一開始很順利的畫完但是按下stop然後重新play卻出現了錯誤訊息，於是慢慢尋找發現我們案的start時間不太對於是我們的東西才會生不出來&lt;/p&gt;</content><category term="41123222 bg5 w15"></category><category term="網誌編寫"></category></entry><entry><title>41123222 w14</title><link href="./41123222%20w14.html" rel="alternate"></link><published>2024-05-23T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>41123222</name></author><id>tag:None,2024-05-23:./41123222 w14.html</id><summary type="html">&lt;p&gt;2024 Spring 每周網誌心得.&lt;/p&gt;
+&lt;p&gt;經過上周的程式作畫，一開始很順利的畫完但是按下stop然後重新play卻出現了錯誤訊息，於是慢慢尋找發現我們案的start時間不太對於是我們的東西才會生不出來&lt;/p&gt;</content><category term="41123222 bg5 w15"></category><category term="網誌編寫"></category></entry><entry><title>41123202 bg5 w14</title><link href="./41123202%20bg5%20w14.html" rel="alternate"></link><published>2024-05-23T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123202</name></author><id>tag:None,2024-05-23:./41123202 bg5 w14.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+
+
+&lt;h1&gt;w14網誌心得&lt;/h1&gt;
+&lt;p&gt;3&lt;/p&gt;</content><category term="41123202 bg5 w14"></category><category term="網誌編寫"></category></entry><entry><title>41123222 w14</title><link href="./41123222%20w14.html" rel="alternate"></link><published>2024-05-23T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123222</name></author><id>tag:None,2024-05-23:./41123222 w14.html</id><summary type="html">&lt;p&gt;2024 Spring 每周網誌心得.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 每周網誌心得.&lt;/p&gt;
 
 
 &lt;h1&gt;w14網誌心得&lt;/h1&gt;
-&lt;p&gt;這周開始用nx1872畫圖，畫圖方式也因為跟以前不太一樣有所區別，畢竟一個是用程式記下來，一個是用電繪，但是用程式的速度非常快，所以這周就慢慢地學習如何用程式繪畫&lt;/p&gt;</content><category term="41123222 bg5 w14"></category><category term="網誌編寫"></category></entry><entry><title>41123222 w13</title><link href="./41123222%20w13.html" rel="alternate"></link><published>2024-05-16T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>41123222</name></author><id>tag:None,2024-05-16:./41123222 w13.html</id><summary type="html">&lt;p&gt;2024 Spring 每周網誌心得.&lt;/p&gt;
+&lt;p&gt;這周開始用nx1872畫圖，畫圖方式也因為跟以前不太一樣有所區別，畢竟一個是用程式記下來，一個是用電繪，但是用程式的速度非常快，所以這周就慢慢地學習如何用程式繪畫&lt;/p&gt;</content><category term="41123222 bg5 w14"></category><category term="網誌編寫"></category></entry><entry><title>41123202 bg5 w13</title><link href="./41123202%20bg5%20w13.html" rel="alternate"></link><published>2024-05-16T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123202</name></author><id>tag:None,2024-05-16:./41123202 bg5 w13.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+
+
+&lt;h1&gt;w13網誌心得&lt;/h1&gt;
+&lt;p&gt;協同有不同的組員來維護一個網站，所以要很清楚的分明出甚麼跟甚麼，像是作者Author，或是其他的所以我們的重點是要清楚讓觀看者可以辨識或是快速尋找要的東西這樣才是快的流產線&lt;/p&gt;</content><category term="41123202 bg5 w13"></category><category term="網誌編寫"></category></entry><entry><title>41123220 bg5 w13</title><link href="./41123220%20bg5%20w13.html" rel="alternate"></link><published>2024-05-16T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123220</name></author><id>tag:None,2024-05-16:./41123220 bg5 w13.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程心得.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程心得.&lt;/p&gt;
+
+&lt;h1&gt;第十三週作業&lt;/h1&gt;
+&lt;p&gt;本週作業和之前都一樣&lt;br&gt;
+本週我已完成:評分網站子模組匯入&lt;/p&gt;</content><category term="41123220 bg5 w13"></category><category term="網誌編寫"></category></entry><entry><title>41123222 w13</title><link href="./41123222%20w13.html" rel="alternate"></link><published>2024-05-16T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123222</name></author><id>tag:None,2024-05-16:./41123222 w13.html</id><summary type="html">&lt;p&gt;2024 Spring 每周網誌心得.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 每周網誌心得.&lt;/p&gt;
 
 
 &lt;h1&gt;w13網誌心得&lt;/h1&gt;
-&lt;p&gt;透過問老師得到Category.Slug.Tags這些都是需要分類的，因為可以直接透過這三個類表清楚看到一個協同組別所做出來的東西，所以要很整齊的分類乾淨&lt;/p&gt;</content><category term="41123222 bg5 w13"></category><category term="網誌編寫"></category></entry><entry><title>41123222 w12</title><link href="./41123222%20w12.html" rel="alternate"></link><published>2024-05-09T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>41123222</name></author><id>tag:None,2024-05-09:./41123222 w12.html</id><summary type="html">&lt;p&gt;2024 Spring 每周網誌心得.&lt;/p&gt;
+&lt;p&gt;透過問老師得到Category.Slug.Tags這些都是需要分類的，因為可以直接透過這三個類表清楚看到一個協同組別所做出來的東西，所以要很整齊的分類乾淨&lt;/p&gt;</content><category term="41123222 bg5 w13"></category><category term="網誌編寫"></category></entry><entry><title>41123223 bg5 w13</title><link href="./41123223%20bg5%20w13.html" rel="alternate"></link><published>2024-05-16T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>CHI-23</name></author><id>tag:None,2024-05-16:./41123223 bg5 w13.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;h1&gt;w13網誌&lt;/h1&gt;
+&lt;p&gt;本周都在協助組長準備期末作業 沒有新的上課內容。&lt;/p&gt;</content><category term="41123223 bg5 w13"></category><category term="網誌編寫"></category></entry><entry><title>41123202 bg5 w12</title><link href="./41123202%20bg5%20w12.html" rel="alternate"></link><published>2024-05-09T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123202</name></author><id>tag:None,2024-05-09:./41123202 bg5 w12.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+
+
+&lt;h1&gt;w12網誌心得&lt;/h1&gt;
+&lt;p&gt;做這個零件時出現很多問題，一開始對功能不熟悉做出成品後卻在沒辦法錄製成功，反反覆覆五六次才成功還會有權限的問題，最後的最後用簡潔的步驟才得以成功.&lt;/p&gt;
+&lt;h1&gt;零件圖檔&lt;/h1&gt;
+&lt;p&gt;與3號共同完成 &lt;a href="https://gist.githubusercontent.com/Yunjia822/5a595b58f3e5b2492fa32c330bf57c6a/raw/5026ea8f0d9ba19b3681f8ca8cbb04f4d4899b04/gistfile1.txt"&gt;python圖檔&lt;/a&gt;
+過程影片&lt;/p&gt;
+&lt;iframe width="640" height="360" src="https://www.youtube.com/embed/9ssCvRZXJTg" title="NX零件檔" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="41123202 bg5 w12"></category><category term="網誌編寫"></category></entry><entry><title>41123203 bg5 w12</title><link href="./41123203%20bg5%20w12.html" rel="alternate"></link><published>2024-05-09T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123203</name></author><id>tag:None,2024-05-09:./41123203 bg5 w12.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+
+
+&lt;h1&gt;w12心得&lt;/h1&gt;
+&lt;p&gt;本周使用NX1872繪製零件圖。過程堪稱坎坷我們要錄製動作並轉換成python 但由於步驟可能太多指令或者出現bug讓我們嘗試了好多次才成功。希望之後可以一次順利一次過。&lt;/p&gt;
+&lt;h1&gt;NX1872零件圖&lt;/h1&gt;
+&lt;p&gt;與2號共同完成此零件圖&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://gist.githubusercontent.com/S1u2a3n4/5404e982b094a519be654c3ccf3e5f8c/raw/18d10f7589dde54579147744586b9362e1c66d4c/gistfile1.txt"&gt;圖檔&lt;/a&gt;
+過程影片&lt;/p&gt;
+&lt;iframe width="684" height="385" src="https://www.youtube.com/embed/FYeOSLpAsn4" title="NX圖檔錄製" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="41123203 bg5 w12"></category><category term="網誌編寫"></category></entry><entry><title>41123206 w12</title><link href="./41123206%20w12.html" rel="alternate"></link><published>2024-05-09T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-05-09:./41123206 w12.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;h1&gt;第十二周網誌&lt;/h1&gt;
+&lt;p&gt;利用 NX 1872 繪製鋼球平衡台所需的零組件, 將各分組倉儲設為評分倉儲的子模組, 跨網路操控模擬場景裝置.&lt;/p&gt;</content><category term="41123206 w12"></category><category term="網誌編寫"></category></entry><entry><title>41123220 bg5 w12</title><link href="./41123220%20bg5%20w12.html" rel="alternate"></link><published>2024-05-09T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123220</name></author><id>tag:None,2024-05-09:./41123220 bg5 w12.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程心得.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程心得.&lt;/p&gt;
+
+&lt;h1&gt;第十二週作業&lt;/h1&gt;
+&lt;p&gt;這次專案我所負責到的是零件1的繪製&lt;br&gt;
+繪製零件1的過程檔:&lt;a href="https://gist.githubusercontent.com/Changyou41123220/283727dbc1d6f825d451e9cedfdd27c4/raw/155fca406cb92101aae9735f376e9717e8ea3f8b/%25E9%259B%25B6%25E4%25BB%25B61%25E9%2581%258E%25E7%25A8%258B.py"&gt;零件1&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;繪製過程影片&lt;br&gt;&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/HS-Tl_-t5jY?si=Zz-kgAHfRjfLpQqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="41123220 bg5 w12"></category><category term="NX 網誌編寫"></category></entry><entry><title>41123222 w12</title><link href="./41123222%20w12.html" rel="alternate"></link><published>2024-05-09T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123222</name></author><id>tag:None,2024-05-09:./41123222 w12.html</id><summary type="html">&lt;p&gt;2024 Spring 每周網誌心得.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 每周網誌心得.&lt;/p&gt;
 
 
 &lt;h1&gt;w12網誌心得&lt;/h1&gt;
 &lt;p&gt;&lt;a href="https://gist.githubusercontent.com/kao41123222/42db6775a014982e884af244c0ad13f2/raw/bf5894387d463e71a571874ea05ecd77dd5ff207/NX%25E7%25A8%258B%25E5%25BC%258F%25E6%25AA%2594"&gt;NX圖檔程式&lt;/a&gt;&lt;/p&gt;
-&lt;iframe width="640" height="360" src="https://www.youtube.com/embed/yOWF_26pdok" title="NX1872 過程" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="41123222 bg5 w12"></category><category term="網誌編寫"></category></entry><entry><title>41123222 w11</title><link href="./41123222%20w11.html" rel="alternate"></link><published>2024-05-02T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>41123222</name></author><id>tag:None,2024-05-02:./41123222 w11.html</id><summary type="html">&lt;p&gt;2024 Spring 每周網誌心得.&lt;/p&gt;
+&lt;iframe width="640" height="360" src="https://www.youtube.com/embed/yOWF_26pdok" title="NX1872 過程" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="41123222 bg5 w12"></category><category term="網誌編寫"></category></entry><entry><title>41123223 bg5 w12</title><link href="./41123223%20bg5%20w12.html" rel="alternate"></link><published>2024-05-09T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>CHI-23</name></author><id>tag:None,2024-05-09:./41123223 bg5 w12.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;h1&gt;w12網誌&lt;/h1&gt;
+&lt;p&gt;本週我們利用 NX 1872 繪製鋼球平衡台所需的零組件, 將各分組倉儲設為評分倉儲的子模組, 跨網路操控模擬場景裝置.&lt;/p&gt;</content><category term="41123223 bg5 w12"></category><category term="網誌編寫"></category></entry><entry><title>41123213 bg5 W12</title><link href="./41123213%20bg5%20W12.html" rel="alternate"></link><published>2024-05-09T02:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123213</name></author><id>tag:None,2024-05-09:./41123213 bg5 W12.html</id><summary type="html">&lt;p&gt;W12 繪製NX檔&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W12 繪製NX檔&lt;/p&gt;
+
+
+&lt;h1&gt;W12 進度&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:f:/g/personal/41123213_nfu_edu_tw/EhaYAuvC4eVGqd0Qq5rNNRABX13BeZIH7PCkVFDh9KG2Jg?e=S9RsMp"&gt;W12 NX檔&lt;/a&gt;&lt;/p&gt;</content><category term="41123213 bg5 W12"></category><category term="網誌編寫"></category></entry><entry><title>41123203 bg5 w11</title><link href="./41123203%20bg5%20w11.html" rel="alternate"></link><published>2024-05-02T15:20:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123203</name></author><id>tag:None,2024-05-02:./41123203 bg5 w11.html</id><summary type="html">&lt;p&gt;2024 Spring 每週心得&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 每週心得&lt;/p&gt;
+
+
+&lt;h1&gt;w11心得&lt;/h1&gt;
+&lt;p&gt;本週我們利用 NX 1872 來繪製鋼球平衡台所需的零組件並錄製。並研究如何應用 AI 協助先前閱讀論文, 整理資料以及延伸模擬程式的方法, 並提出既存鋼球平衡台控制與模擬的實習步驟。&lt;/p&gt;</content><category term="41123203 bg5 w11"></category><category term="網誌編寫"></category></entry><entry><title>41123202 bg5 w11</title><link href="./41123202%20bg5%20w11.html" rel="alternate"></link><published>2024-05-02T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123202</name></author><id>tag:None,2024-05-02:./41123202 bg5 w11.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+
+
+&lt;h1&gt;W11網誌心得&lt;/h1&gt;
+&lt;p&gt;用NX的各種功能來創建平衡台的各個部件並用NX的3D建模工具來創建具有精確尺寸和形狀的部件，並使用裝配工具來將它們組合在一起。NX有許多分析工具，可以幫助我們驗證設計的正確性和性能以確保它能夠承受預期的負載以確保各個部件之間的協調和兼容性.&lt;/p&gt;</content><category term="41123202 bg5 w11"></category><category term="網誌編寫"></category></entry><entry><title>41123206 w11</title><link href="./41123206%20w11.html" rel="alternate"></link><published>2024-05-02T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-05-02:./41123206 w11.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;h1&gt;第十一網誌&lt;/h1&gt;
+&lt;p&gt;利用 NX 1872 繪製鋼球平衡台所需的零組件.&lt;/p&gt;</content><category term="41123206 w11"></category><category term="網誌編寫"></category></entry><entry><title>41123220 bg5 w11</title><link href="./41123220%20bg5%20w11.html" rel="alternate"></link><published>2024-05-02T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123220</name></author><id>tag:None,2024-05-02:./41123220 bg5 w11.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程心得.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程心得.&lt;/p&gt;
+
+&lt;h1&gt;第十一週作業&lt;/h1&gt;
+&lt;p&gt;本週是將這學期所有的作業完成和進行統整&lt;br&gt;
+目前我還沒完成的是:NX鋼球平衡台繪製、評分網站子模組匯入&lt;br&gt;
+其他皆已完成&lt;/p&gt;</content><category term="41123220 bg5 w11"></category><category term="網誌編寫"></category></entry><entry><title>41123222 w11</title><link href="./41123222%20w11.html" rel="alternate"></link><published>2024-05-02T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123222</name></author><id>tag:None,2024-05-02:./41123222 w11.html</id><summary type="html">&lt;p&gt;2024 Spring 每周網誌心得.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 每周網誌心得.&lt;/p&gt;
 
 
 &lt;h1&gt;w11網誌心得&lt;/h1&gt;
-&lt;p&gt;今天上課老師開了一個評分網站但因為branch的問題，導致出現很多的錯誤亂碼，git branch建一個自己的分支，再由自己到群組再到分組網站，不僅減少錯誤亂碼也能更有效率的推送上去，導致避免變成我一直被其他人亂搞推上去。&lt;/p&gt;</content><category term="41123222 bg5 w11"></category><category term="網誌編寫"></category></entry><entry><title>41123222 w10</title><link href="./41123222%20w10.html" rel="alternate"></link><published>2024-04-25T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>41123222</name></author><id>tag:None,2024-04-25:./41123222 w10.html</id><summary type="html">&lt;p&gt;2024 Spring 每周網誌心得.&lt;/p&gt;
+&lt;p&gt;今天上課老師開了一個評分網站但因為branch的問題，導致出現很多的錯誤亂碼，git branch建一個自己的分支，再由自己到群組再到分組網站，不僅減少錯誤亂碼也能更有效率的推送上去，導致避免變成我一直被其他人亂搞推上去。&lt;/p&gt;</content><category term="41123222 bg5 w11"></category><category term="網誌編寫"></category></entry><entry><title>41123223 bg5 w11</title><link href="./41123223%20bg5%20w11.html" rel="alternate"></link><published>2024-05-02T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>CHI-23</name></author><id>tag:None,2024-05-02:./41123223 bg5 w11.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;h1&gt;w11網誌&lt;/h1&gt;
+&lt;p&gt;本週老師要我們用 NX 1872 繪製鋼球平衡台所需的零組件.並分配給各組員合作完成。&lt;/p&gt;</content><category term="41123223 bg5 w11"></category><category term="網誌編寫"></category></entry><entry><title>41123213 bg5 W11</title><link href="./41123213%20bg5%20W11.html" rel="alternate"></link><published>2024-05-02T02:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123213</name></author><id>tag:None,2024-05-02:./41123213 bg5 W11.html</id><summary type="html">&lt;p&gt;W11 參考鋼球NX檔&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W11 參考鋼球NX檔&lt;/p&gt;
+
+
+&lt;h1&gt;W11 進度&lt;/h1&gt;
+&lt;p&gt;閱覽鋼球架之NX檔&lt;/p&gt;</content><category term="41123213 bg5 W11"></category><category term="網誌編寫"></category></entry><entry><title>41123203 bg5 w10</title><link href="./41123203%20bg5%20w10.html" rel="alternate"></link><published>2024-04-25T15:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123203</name></author><id>tag:None,2024-04-25:./41123203 bg5 w10.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+
+
+&lt;h1&gt;w10心得&lt;/h1&gt;
+&lt;p&gt;第十週老師讓我們實習操作, 透過 ChatGPT、Gemini 1.5 Pro 與 Claude 3 練習小組倉儲的分配，並製作鋼球平衡台零組件繪圖。過程中學到了如何建立凹曲面的形狀讓我對繪製零件有更深入的見解。&lt;/p&gt;</content><category term="41123203 bg5 w10"></category><category term="網誌編寫"></category></entry><entry><title>41123202 bg5 w10</title><link href="./41123202%20bg5%20w10.html" rel="alternate"></link><published>2024-04-25T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123202</name></author><id>tag:None,2024-04-25:./41123202 bg5 w10.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+
+
+&lt;h1&gt;W10網誌心得&lt;/h1&gt;
+&lt;p&gt;ChatGPT 是一個強大的語言知識庫可能遇到的問題，並提供解決方案，而Gemini 1.5 Pro來設計並繪製零組件最後使用 Claude3將設計好的模型轉換為CoppeliaSim的格式將模型載入 CoppeliaSim，我們就可以開始設計 PID 控制器。透過調整PID控制器的參數，我們可以觀察鋼球在x和y座標上的運動路徑。PD和PID之間PID控制器更能在跟踪斜坡和正弦參考信號時具有更好的性能。&lt;/p&gt;</content><category term="41123202 bg5 w10"></category><category term="網誌編寫"></category></entry><entry><title>41123206 w10</title><link href="./41123206%20w10.html" rel="alternate"></link><published>2024-04-25T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-25:./41123206 w10.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;h1&gt;第十周網誌&lt;/h1&gt;
+&lt;p&gt;透過 ChatGPT、Gemini 1.5 Pro 與 Claude 3 的協助下進行.&lt;/p&gt;</content><category term="41123206 w10"></category><category term="網誌編寫"></category></entry><entry><title>41123220 bg5 w10</title><link href="./41123220%20bg5%20w10.html" rel="alternate"></link><published>2024-04-25T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123220</name></author><id>tag:None,2024-04-25:./41123220 bg5 w10.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程心得.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程心得.&lt;/p&gt;
+
+&lt;h1&gt;第十週作業&lt;/h1&gt;
+&lt;p&gt;1.建立各班學員的倉儲、網站與分組連結&lt;br&gt;
+2.鋼球平衡台 PID 控制與模擬&lt;br&gt;&lt;/p&gt;
+&lt;h1&gt;上週追蹤事項&lt;/h1&gt;
+&lt;p&gt;1.利用 NX1872 協同繪製零組件&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;這週第1點任務已完成，使用NX繪製零組件還在努力中!&lt;/p&gt;</content><category term="41123220 bg5 w10"></category><category term="NX 網誌編寫"></category></entry><entry><title>41123222 w10</title><link href="./41123222%20w10.html" rel="alternate"></link><published>2024-04-25T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123222</name></author><id>tag:None,2024-04-25:./41123222 w10.html</id><summary type="html">&lt;p&gt;2024 Spring 每周網誌心得.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 每周網誌心得.&lt;/p&gt;
 
 
 &lt;h1&gt;w10網誌心得&lt;/h1&gt;
 &lt;p&gt;經過聽課可使用 ChatGPT 3.5，Gemini Pro 與 Claude 3 (每日限量) 對話取得參考意見.可用Gmail登入帳號&lt;/p&gt;
-&lt;p&gt;畢竟AI的想法肯定比人類腦子多，AI結合人類可以得出最好的答案，可以如老師所說的多運用AI很多東西很快就會出來&lt;/p&gt;</content><category term="41123222 bg5 w10"></category><category term="網誌編寫"></category></entry><entry><title>41123222 w9</title><link href="./41123222%20w9.html" rel="alternate"></link><published>2024-04-18T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>41123222</name></author><id>tag:None,2024-04-18:./41123222 w9.html</id><summary type="html">&lt;p&gt;2024 Spring 每周網誌心得.&lt;/p&gt;
+&lt;p&gt;畢竟AI的想法肯定比人類腦子多，AI結合人類可以得出最好的答案，可以如老師所說的多運用AI很多東西很快就會出來&lt;/p&gt;</content><category term="41123222 bg5 w10"></category><category term="網誌編寫"></category></entry><entry><title>41123223 bg5 w10</title><link href="./41123223%20bg5%20w10.html" rel="alternate"></link><published>2024-04-25T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>CHI-23</name></author><id>tag:None,2024-04-25:./41123223 bg5 w10.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;h1&gt;w10網誌&lt;/h1&gt;
+&lt;p&gt;本周是透過 ChatGPT、Gemini 1.5 Pro 與 Claude 3 的協助下進行. 有了這些工具幫助很多事情都變得很簡單了。&lt;/p&gt;</content><category term="41123223 bg5 w10"></category><category term="網誌編寫"></category></entry><entry><title>41123213 bg5 W10</title><link href="./41123213%20bg5%20W10.html" rel="alternate"></link><published>2024-04-19T02:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123213</name></author><id>tag:None,2024-04-19:./41123213 bg5 W10.html</id><summary type="html">&lt;p&gt;W10 輸入倉儲至bg5&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W10 輸入倉儲至bg5&lt;/p&gt;
+
+
+&lt;h1&gt;W10 進度&lt;/h1&gt;
+&lt;p&gt;鋼球平衡台 PID 控制與模擬&lt;/p&gt;</content><category term="41123213 bg5 W10"></category><category term="網誌編寫"></category></entry><entry><title>41123213 bg5 W9</title><link href="./41123213%20bg5%20W9.html" rel="alternate"></link><published>2024-04-19T02:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123213</name></author><id>tag:None,2024-04-19:./41123213 bg5 W9.html</id><summary type="html">&lt;p&gt;W9 自評影片&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W9 自評影片&lt;/p&gt;
+
+
+&lt;h1&gt;W9 進度&lt;/h1&gt;
+&lt;p&gt;自評影片&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/uJiAT0QkdwM?si=dEHeve99ZFRBdB3L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="41123213 bg5 W9"></category><category term="網誌編寫"></category></entry><entry><title>41123202 bg5 w9</title><link href="./41123202%20bg5%20w9.html" rel="alternate"></link><published>2024-04-18T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123202</name></author><id>tag:None,2024-04-18:./41123202 bg5 w9.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+
+
+&lt;h1&gt;W9網誌心得&lt;/h1&gt;
+&lt;p&gt;from browser import window, ajax&lt;/p&gt;
+&lt;p&gt;def fetch_csv_data():
+    url = "https://mdecd2024.github.io/2bstud-2bsite/downloads/2b.txt"&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="nx"&gt;def&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;on_complete&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;req&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="k"&gt;if&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;req&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;status&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;==&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;200&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="k"&gt;or&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;req&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;status&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;==&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nx"&gt;content&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;req&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;text&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nx"&gt;lines&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;content&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;split&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="sc"&gt;&amp;#39;\n&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="k"&gt;for&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;line&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="k"&gt;in&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;lines&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+&lt;span class="w"&gt;            &lt;/span&gt;&lt;span class="k"&gt;if&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;line&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;strip&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;==&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+&lt;span class="w"&gt;                &lt;/span&gt;&lt;span class="k"&gt;continue&lt;/span&gt;
+&lt;span class="w"&gt;            &lt;/span&gt;&lt;span class="nx"&gt;items&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;line&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;split&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="sc"&gt;&amp;#39;,&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="w"&gt;            &lt;/span&gt;&lt;span class="k"&gt;if&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;len&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;items&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;&amp;gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+&lt;span class="w"&gt;                &lt;/span&gt;&lt;span class="nx"&gt;github_username_1&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;items&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;].&lt;/span&gt;&lt;span class="nx"&gt;strip&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;第三個逗號後到第四個逗號前的數據&lt;/span&gt;
+&lt;span class="w"&gt;                &lt;/span&gt;&lt;span class="nx"&gt;team&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;items&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;].&lt;/span&gt;&lt;span class="nx"&gt;strip&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;第四個逗號後的數據&lt;/span&gt;
+&lt;span class="w"&gt;                &lt;/span&gt;&lt;span class="nx"&gt;team2&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;items&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;].&lt;/span&gt;&lt;span class="nx"&gt;strip&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;span class="w"&gt;                &lt;/span&gt;&lt;span class="nx"&gt;github_url_1&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;f&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;個人倉儲:https://github.com/{github_username_1}/cd2024&amp;quot;&lt;/span&gt;
+&lt;span class="w"&gt;                &lt;/span&gt;&lt;span class="nx"&gt;team&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;f&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;分組倉儲:https://github.com/mdecd2024/2b-midbg{team}&amp;quot;&lt;/span&gt;
+&lt;span class="w"&gt;                &lt;/span&gt;&lt;span class="nx"&gt;team2&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;f&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;分組網頁:https://mdecd2024.github.io/2b-midbg{team2}&amp;quot;&lt;/span&gt;
+&lt;span class="w"&gt;                &lt;/span&gt;&lt;span class="nx"&gt;csv_data&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;items&lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;].&lt;/span&gt;&lt;span class="nx"&gt;strip&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;取得&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;CSV&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;中第三個逗號後的資料&lt;/span&gt;
+&lt;span class="w"&gt;                &lt;/span&gt;&lt;span class="nx"&gt;github_io_url&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;f&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;個人網頁:https://{csv_data}.github.io/cd2024/&amp;quot;&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;新的&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;GitHub&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;IO&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;URL&lt;/span&gt;
+&lt;span class="w"&gt;                &lt;/span&gt;&lt;span class="nx"&gt;line_with_urls&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;f&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;{line.strip()},{github_url_1},{github_io_url},{team},{team2}&amp;quot;&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;以逗號分隔的資料串&lt;/span&gt;
+&lt;span class="w"&gt;                &lt;/span&gt;&lt;span class="nx"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nx"&gt;line_with_urls&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="k"&gt;else&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nx"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;Error:&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;req&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;text&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+
+&lt;span class="nx"&gt;req&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;ajax&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;ajax&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;span class="nx"&gt;req&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;bind&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="err"&gt;&amp;#39;&lt;/span&gt;&lt;span class="nx"&gt;complete&lt;/span&gt;&lt;span class="err"&gt;&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;on_complete&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="nx"&gt;req&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;open&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="err"&gt;&amp;#39;&lt;/span&gt;&lt;span class="nx"&gt;GET&lt;/span&gt;&lt;span class="err"&gt;&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;url&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nx"&gt;True&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="nx"&gt;req&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;set_header&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="err"&gt;&amp;#39;&lt;/span&gt;&lt;span class="nx"&gt;content&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="k"&gt;type&lt;/span&gt;&lt;span class="err"&gt;&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;&amp;#39;&lt;/span&gt;&lt;span class="nx"&gt;application&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="nx"&gt;x&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="nx"&gt;www&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="nx"&gt;form&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="nx"&gt;urlencoded&lt;/span&gt;&lt;span class="err"&gt;&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="nx"&gt;req&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nx"&gt;send&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;fetch_csv_data()&lt;/p&gt;
+&lt;p&gt;此為2Bmidbg5大家從GPT得出答案，並以2b.txt得出所有人的倉儲以及網址，上述team1.tema2為了得出不同的東西而有所改變&lt;/p&gt;</content><category term="41123202 bg5 w9"></category><category term="網誌編寫"></category></entry><entry><title>41123222 w9</title><link href="./41123222%20w9.html" rel="alternate"></link><published>2024-04-18T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123222</name></author><id>tag:None,2024-04-18:./41123222 w9.html</id><summary type="html">&lt;p&gt;2024 Spring 每周網誌心得.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 每周網誌心得.&lt;/p&gt;
 
 
 &lt;h1&gt;w9網誌心得&lt;/h1&gt;
 &lt;p&gt;這周接近期中了該學的也都慢慢熟悉&lt;/p&gt;
 &lt;h1&gt;期中自評影片&lt;/h1&gt;
-&lt;iframe width="640" height="360" src="https://www.youtube.com/embed/VQNBNxyrhHY" title="期中自我評分" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="41123222 bg5 w9"></category><category term="網誌編寫"></category></entry><entry><title>41123220 w6</title><link href="./41123220%20w6.html" rel="alternate"></link><published>2024-04-04T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>koml</name></author><id>tag:None,2024-04-04:./41123220 w6.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;iframe width="640" height="360" src="https://www.youtube.com/embed/VQNBNxyrhHY" title="期中自我評分" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="41123222 bg5 w9"></category><category term="網誌編寫"></category></entry><entry><title>41136124 w8</title><link href="./41136124%20w8.html" rel="alternate"></link><published>2024-04-11T15:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-11:./41136124 w8.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;h1&gt;w8網誌&lt;/h1&gt;
+&lt;h1&gt;各組自行搜尋前面已發佈的教學影片&lt;/h1&gt;</content><category term="41136124 w8"></category><category term="網誌編寫"></category></entry><entry><title>41123203 bg5 w8</title><link href="./41123203%20bg5%20w8.html" rel="alternate"></link><published>2024-04-11T13:50:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123203</name></author><id>tag:None,2024-04-11:./41123203 bg5 w8.html</id><summary type="html">&lt;p&gt;2024 Spring 每週心得&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 每週心得&lt;/p&gt;
+
+
+&lt;h1&gt;w8內容&lt;/h1&gt;
+&lt;p&gt;本周老師讓我們延續W6的學習內容，在 cd2024 倉儲中的 markdown 目錄編寫 markdown 網誌文章, 再經由 Pelican 轉檔至 blog 目錄中的超文件網誌。進行分組作業。過程很有趣。&lt;/p&gt;</content><category term="41123203 bg5 w8"></category><category term="網誌編寫"></category></entry><entry><title>41123220 bg5 w7</title><link href="./41123220%20bg5%20w7.html" rel="alternate"></link><published>2024-04-11T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123220</name></author><id>tag:None,2024-04-11:./41123220 bg5 w7.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程心得.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程心得.&lt;/p&gt;
+
+
+&lt;h1&gt;第七週作業&lt;/h1&gt;
+&lt;p&gt;本周是連假所以沒有作業&lt;/p&gt;</content><category term="41123220 bg5 w7"></category><category term="網誌編寫"></category></entry><entry><title>41136124 w7</title><link href="./41136124%20w7.html" rel="alternate"></link><published>2024-04-04T15:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-04:./41136124 w7.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;h1&gt;W7網誌&lt;/h1&gt;
+&lt;p&gt;本周課程因清明連假 未上課&lt;/p&gt;</content><category term="41136124 w7"></category><category term="網誌編寫"></category></entry><entry><title>41123220 bg5 w6</title><link href="./41123220%20bg5%20w6.html" rel="alternate"></link><published>2024-04-04T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123220</name></author><id>tag:None,2024-04-04:./41123220 bg5 w6.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -63,23 +261,35 @@
 
 &lt;p&gt;影片2
 &lt;a href="https://github.com/Changyou41123220/cd2024/files/14784861/2.txt"&gt;字幕稿&lt;/a&gt;&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/tSjwhVKyrb0?si=ewhDv_wVkpDFXZdM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="41123220 w6"></category><category term="網誌編寫"></category></entry><entry><title>41123202 w6</title><link href="./41123202%20w6.html" rel="alternate"></link><published>2024-03-29T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-29:./41123202 w6.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/tSjwhVKyrb0?si=ewhDv_wVkpDFXZdM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="41123220 bg5 w6"></category><category term="字幕 網誌撰寫"></category></entry><entry><title>41123223 bg5 w7</title><link href="./41123223%20bg5%20w7.html" rel="alternate"></link><published>2024-04-04T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>CHI-23</name></author><id>tag:None,2024-04-04:./41123223 bg5 w7.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;h1&gt;w7網誌&lt;/h1&gt;
+&lt;p&gt;本周為春假放假一次&lt;/p&gt;</content><category term="41123223 bg5 w7"></category><category term="網誌編寫"></category></entry><entry><title>41123203 bg5 W6</title><link href="./41123203%20bg5%20w6.html" rel="alternate"></link><published>2024-03-28T15:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123203</name></author><id>tag:None,2024-03-28:./41123203 bg5 w6.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 
 
 &lt;h1&gt;W6網誌心得&lt;/h1&gt;
-&lt;p&gt;協同NX零組件繪圖和CoppeliaSim場景模擬是我們團隊在產品設計和模擬方面的重要工作，透過這些程式可以輕鬆地設計和模擬各種機器人和自動化系統，並進行相關的測試和優化。此外這周需製作教學影片分組整理並自評Replit檢視靜態網站執行動態網站伺服器&lt;/p&gt;</content><category term="w6"></category><category term="網誌編寫"></category></entry><entry><title>41123203 W6</title><link href="./41123203%20w6.html" rel="alternate"></link><published>2024-03-28T15:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-28:./41123203 w6.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+&lt;p&gt;這周老師延續上周作業內容讓我們組內自評並做成影片。今天推的時候發現有異常。好在及時請老師協助並修正，但還是花了不少時間。&lt;/p&gt;</content><category term="41123203 bg5 w6"></category><category term="網誌編寫"></category></entry><entry><title>41136124 w6</title><link href="./41136124%20w6.html" rel="alternate"></link><published>2024-03-28T15:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-28:./41136124 w6.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;h1&gt;W6網誌&lt;/h1&gt;
+&lt;p&gt;各組員在個人的 cd2024 倉儲中，以LaTex格式分工完成下列文章的英文與中文翻譯資料，最後在分組網站的 Release或 downloads 區完成2b-midbgx_report.pdf 的製作&lt;/p&gt;</content><category term="41136124 w6"></category><category term="網誌編寫"></category></entry><entry><title>41123202 bg5 w6</title><link href="./41123202%20bg5%20w6.html" rel="alternate"></link><published>2024-03-28T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123202</name></author><id>tag:None,2024-03-28:./41123202 bg5 w6.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 
 
 &lt;h1&gt;W6網誌心得&lt;/h1&gt;
-&lt;p&gt;這周老師延續上周作業內容讓我們組內自評並做成影片。今天推的時候發現有異常。好在及時請老師協助並修正，但還是花了不少時間。&lt;/p&gt;</content><category term="w6"></category><category term="網誌編寫"></category></entry><entry><title>41123206 w6</title><link href="./41123206%20w6.html" rel="alternate"></link><published>2024-03-28T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-28:./41123206 w6.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;協同NX零組件繪圖和CoppeliaSim場景模擬是我們團隊在產品設計和模擬方面的重要工作，透過這些程式可以輕鬆地設計和模擬各種機器人和自動化系統，並進行相關的測試和優化。此外這周需製作教學影片分組整理並自評Replit檢視靜態網站執行動態網站伺服器&lt;/p&gt;
+&lt;h1&gt;自評影片&lt;/h1&gt;
+&lt;iframe width="1236" height="695" src="https://www.youtube.com/embed/-M4XLmGEnr8" title="期中自錄" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="41123202 bg5 w6"></category><category term="網誌編寫"></category></entry><entry><title>41123206 w6</title><link href="./41123206%20w6.html" rel="alternate"></link><published>2024-03-28T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-28:./41123206 w6.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
 &lt;h1&gt;第六周網誌&lt;/h1&gt;
-&lt;p&gt;說明協同 NX 零組件繪圖以及 CoppeliaSim 場景模擬相關檔案格式.&lt;/p&gt;</content><category term="41123206 w6"></category><category term="網誌編寫"></category></entry><entry><title>41123220 w5</title><link href="./41123220%20w5.html" rel="alternate"></link><published>2024-03-28T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>koml</name></author><id>tag:None,2024-03-28:./41123220 w5.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;說明協同 NX 零組件繪圖以及 CoppeliaSim 場景模擬相關檔案格式.&lt;/p&gt;</content><category term="41123206 w6"></category><category term="網誌編寫"></category></entry><entry><title>41123220 bg5 w5</title><link href="./41123220%20bg5%20w5.html" rel="alternate"></link><published>2024-03-28T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123220</name></author><id>tag:None,2024-03-28:./41123220 bg5 w5.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程心得.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程心得.&lt;/p&gt;
 
 
 &lt;h1&gt;第五週作業&lt;/h1&gt;
@@ -96,39 +306,59 @@
 &lt;br&gt;
 目前我已完成第六章的翻譯以及latex的撰寫&lt;br&gt;
 &lt;a href="https://github.com/Changyou41123220/cd2024/files/14893969/CHAPTER6.txt"&gt;第六章latex程式&lt;/a&gt;&lt;br&gt;
-&lt;a href="https://github.com/Changyou41123220/cd2024/files/14893973/CHAPTER6.pdf"&gt;第六章.pdf&lt;/a&gt;&lt;br&gt;&lt;/p&gt;</content><category term="41123220 w5"></category><category term="網誌編寫"></category></entry><entry><title>41123222 w6</title><link href="./41123222%20w6.html" rel="alternate"></link><published>2024-03-28T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>41123222</name></author><id>tag:None,2024-03-28:./41123222 w6.html</id><summary type="html">&lt;p&gt;2024 Spring 每周網誌心得.&lt;/p&gt;
+&lt;a href="https://github.com/Changyou41123220/cd2024/files/14893973/CHAPTER6.pdf"&gt;第六章.pdf&lt;/a&gt;&lt;br&gt;&lt;/p&gt;</content><category term="41123220 bg5 w5"></category><category term="latex 網誌撰寫"></category></entry><entry><title>41123222 w6</title><link href="./41123222%20w6.html" rel="alternate"></link><published>2024-03-28T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123222</name></author><id>tag:None,2024-03-28:./41123222 w6.html</id><summary type="html">&lt;p&gt;2024 Spring 每周網誌心得.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 每周網誌心得.&lt;/p&gt;
 
 
 &lt;h1&gt;w6網誌心得&lt;/h1&gt;
 &lt;p&gt;此為整組的latex程式 &lt;a href="https://github.com/mdecd2024/2b-midbg5/tree/main/latex"&gt;網站&lt;/a&gt;
-方便供老師觀看&lt;/p&gt;</content><category term="41123222 bg5 w6"></category><category term="網誌編寫"></category></entry><entry><title>41123223 w6</title><link href="./41123223%20w6.html" rel="alternate"></link><published>2024-03-28T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-28:./41123223 w6.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+方便供老師觀看&lt;/p&gt;</content><category term="41123222 bg5 w6"></category><category term="網誌編寫"></category></entry><entry><title>41123223 bg5 w6</title><link href="./41123223%20bg5%20w6.html" rel="alternate"></link><published>2024-03-28T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>CHI-23</name></author><id>tag:None,2024-03-28:./41123223 bg5 w6.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
 &lt;h1&gt;w6網誌&lt;/h1&gt;
-&lt;p&gt;說明協同 NX 零件繪製和 CoppeliaSim的應用。&lt;/p&gt;</content><category term="41123223 w6"></category><category term="網誌編寫"></category></entry><entry><title>41123202 w5</title><link href="./41123202%20w5.html" rel="alternate"></link><published>2024-03-22T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-22:./41123202 w5.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+&lt;p&gt;說明協同 NX 零件繪製和 CoppeliaSim的應用。&lt;/p&gt;</content><category term="41123223 bg5  w6"></category><category term="網誌編寫"></category></entry><entry><title>41123213 bg5 W6</title><link href="./41123213%20bg5%20W6.html" rel="alternate"></link><published>2024-03-28T02:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>kmol41123213</name></author><id>tag:None,2024-03-28:./41123213 bg5 W6.html</id><summary type="html">&lt;p&gt;W6 期中報告&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W6 期中報告&lt;/p&gt;
 
 
-&lt;h1&gt;W5網誌心得&lt;/h1&gt;
-&lt;p&gt;分組網誌的統整對我們團隊來說是一項挑戰，但同時也是一個很有意義的過程。在這個過程中，我們學會了如何有效地協作，如何整合各組員的想法和創意，並將它們轉化為有價值的內容。&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category></entry><entry><title>41123213 W5</title><link href="./41123213%20W5.html" rel="alternate"></link><published>2024-03-22T02:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-22:./41123213 W5.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;h1&gt;W6 進度&lt;/h1&gt;
+&lt;p&gt;1.整合W4&amp;amp;W5翻譯文章與影片&lt;br&gt;
+2.準備期中報告&lt;br&gt;&lt;/p&gt;</content><category term="41123213 bg5 W6"></category><category term="網誌編寫"></category></entry><entry><title>41123213 bg5 W5</title><link href="./41123213%20bg5%20W5.html" rel="alternate"></link><published>2024-03-22T02:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123213</name></author><id>tag:None,2024-03-22:./41123213 bg5 W5.html</id><summary type="html">&lt;p&gt;W5 翻譯教學影片&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W5 翻譯教學影片&lt;/p&gt;
 
 
 &lt;h1&gt;W5進度&lt;/h1&gt;
 &lt;p&gt;1.翻譯教學影片&lt;br&gt;
-2.整理網誌&lt;br&gt;&lt;/p&gt;</content><category term="41123213 W5"></category><category term="網誌編寫"></category></entry><entry><title>41123203 W5</title><link href="./41123203%20w5.html" rel="alternate"></link><published>2024-03-21T15:20:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-21:./41123203 w5.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+2.整理網誌&lt;br&gt;&lt;/p&gt;</content><category term="41123213 bg5 W5"></category><category term="網誌編寫"></category></entry><entry><title>41123203 bg5 W5</title><link href="./41123203%20bg5%20w5.html" rel="alternate"></link><published>2024-03-21T15:20:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123203</name></author><id>tag:None,2024-03-21:./41123203 bg5 w5.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 
 
 &lt;h1&gt;W5網誌心得&lt;/h1&gt;
-&lt;p&gt;這周老師讓我們組內自評並做成影片。這需要溝通和合作。通過協作，發揮最大的效能!&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category></entry><entry><title>41123206 w5</title><link href="./41123206%20w5.html" rel="alternate"></link><published>2024-03-21T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-21:./41123206 w5.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;這周老師讓我們組內自評並做成影片。這需要溝通和合作。通過協作，發揮最大的效能!&lt;/p&gt;</content><category term="41123203 bg5 w5"></category><category term="網誌編寫"></category></entry><entry><title>41136124 w5</title><link href="./41136124%20w5.html" rel="alternate"></link><published>2024-03-21T15:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-21:./41136124 w5.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;h1&gt;W5網誌&lt;/h1&gt;
+&lt;p&gt;W5 教學內容為先前影片整理，分組網誌之統整&lt;/p&gt;</content><category term="41136124 w5"></category><category term="網誌編寫"></category></entry><entry><title>41123202 bg5 w5</title><link href="./41123202%20bg5%20w5.html" rel="alternate"></link><published>2024-03-21T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123202</name></author><id>tag:None,2024-03-21:./41123202 bg5 w5.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+
+
+&lt;h1&gt;W5網誌心得&lt;/h1&gt;
+&lt;p&gt;先整理先前的影片資料是一個重要的步驟，它有助於我們回顧以前的學習和訓練內容。這不僅可以幫助我們加深對知識的理解，還可以發現可能需要進一步學習或加強的領域。
+分組網誌統整起來是一個很好的做法，特別是在協同工作的情況下。這有助於將所有組員的貢獻整合到一個地方，使得資訊更容易查閱和分享。
+*使用NX軟體進行零組件繪圖是一個具有挑戰性但也非常有趣的任務。這需要一定的技術和經驗，但通過進行繪圖，我們可以將設計想法轉化為實際的產品或零件。透過繪圖過程，我們可以學習如何運用工程設計原則和工具來解決問題，並將設計概念轉化為具體的成果。&lt;/p&gt;
+&lt;h1&gt;影片上字幕HW&lt;/h1&gt;
+&lt;p&gt;將老師上課教學影片上字幕&lt;/p&gt;
+&lt;p&gt;影片3&lt;a href="https://github.com/Yunjia822/cd2024/files/15011646/3.txt]"&gt;字幕稿&lt;/a&gt;&lt;/p&gt;
+&lt;iframe width="1236" height="695" src="https://www.youtube.com/embed/ClSWX1EP1QM" title="3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;影片4&lt;a href="https://github.com/Yunjia822/cd2024/files/15011649/4.txt"&gt;字幕稿&lt;/a&gt;&lt;/p&gt;
+&lt;iframe width="1236" height="695" src="https://www.youtube.com/embed/nWt1_2-meM8" title="4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="41123202 bg5 w5"></category><category term="網誌編寫"></category></entry><entry><title>41123206 w5</title><link href="./41123206%20w5.html" rel="alternate"></link><published>2024-03-21T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-21:./41123206 w5.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
 &lt;h1&gt;第五周網誌&lt;/h1&gt;
-&lt;p&gt;第五週, 上課內容為先前影片整理、分組網誌的統整與 NX 零組件繪圖.&lt;/p&gt;</content><category term="41123206 w5"></category><category term="網誌編寫"></category></entry><entry><title>41123220 w4</title><link href="./41123220%20w4.html" rel="alternate"></link><published>2024-03-21T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>koml</name></author><id>tag:None,2024-03-21:./41123220 w4.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;第五週, 上課內容為先前影片整理、分組網誌的統整與 NX 零組件繪圖.&lt;/p&gt;</content><category term="41123206 w5"></category><category term="網誌編寫"></category></entry><entry><title>41123220 bg5 w4</title><link href="./41123220%20bg5%20w4.html" rel="alternate"></link><published>2024-03-21T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123220</name></author><id>tag:None,2024-03-21:./41123220 bg5 w4.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -138,7 +368,7 @@
 &lt;h1&gt;上週追蹤事項&lt;/h1&gt;
 &lt;p&gt;1.將組員的個人倉儲設為分組倉儲子模組&lt;br&gt;
 2.期中協同分組報告&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;分組倉儲的子模組已經弄好了，剩下期中的作業還在分配當中。&lt;/p&gt;</content><category term="41123220 w4"></category><category term="網誌編寫"></category></entry><entry><title>41123222 w5</title><link href="./41123222%20w5.html" rel="alternate"></link><published>2024-03-21T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>41123222</name></author><id>tag:None,2024-03-21:./41123222 w5.html</id><summary type="html">&lt;p&gt;2024 Spring 每周網誌心得.&lt;/p&gt;
+&lt;p&gt;分組倉儲的子模組已經弄好了，剩下期中的作業還在分配當中。&lt;/p&gt;</content><category term="41123220 bg5 w4"></category><category term="網誌編寫"></category></entry><entry><title>41123222 w5</title><link href="./41123222%20w5.html" rel="alternate"></link><published>2024-03-21T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123222</name></author><id>tag:None,2024-03-21:./41123222 w5.html</id><summary type="html">&lt;p&gt;2024 Spring 每周網誌心得.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 每周網誌心得.&lt;/p&gt;
 
 
@@ -149,33 +379,45 @@
 &lt;iframe width="640" height="360" src="https://www.youtube.com/embed/ccXCIVSiZ3Y" title="7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;影片8
 &lt;a href="https://github.com/kao41123222/cd2024/files/15010244/8.txt"&gt;字幕稿&lt;/a&gt;&lt;/p&gt;
-&lt;iframe width="653" height="351" src="https://www.youtube.com/embed/g5Fa5zDBdf0" title="8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="41123222 bg5 w5"></category><category term="網誌編寫"></category></entry><entry><title>41123223 w5</title><link href="./41123223%20w5.html" rel="alternate"></link><published>2024-03-21T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-21:./41123223 w5.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;iframe width="653" height="351" src="https://www.youtube.com/embed/g5Fa5zDBdf0" title="8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="41123222 bg5 w5"></category><category term="網誌編寫"></category></entry><entry><title>41123223 bg5 w5</title><link href="./41123223%20bg5%20w5.html" rel="alternate"></link><published>2024-03-21T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>CHI-23</name></author><id>tag:None,2024-03-21:./41123223 bg5 w5.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
 &lt;h1&gt;w5網誌&lt;/h1&gt;
-&lt;p&gt;本周老師整理了以前的影片和利用NX繪製零件。&lt;/p&gt;</content><category term="41123223 w5"></category><category term="網誌編寫"></category></entry><entry><title>41123213 W4</title><link href="./41123213%20W4.html" rel="alternate"></link><published>2024-03-15T02:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-15:./41123213 W4.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;本周老師整理了以前的影片和利用NX繪製零件。&lt;/p&gt;</content><category term="41123223 bg5 w5"></category><category term="網誌編寫"></category></entry><entry><title>41123213 bg5 W4</title><link href="./41123213%20bg5%20W4.html" rel="alternate"></link><published>2024-03-15T02:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123213</name></author><id>tag:None,2024-03-15:./41123213 bg5 W4.html</id><summary type="html">&lt;p&gt;W4 參考odoo文章與檢視Replit靜態網站&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W4 參考odoo文章與檢視Replit靜態網站&lt;/p&gt;
 
 
 &lt;h1&gt;W4進度&lt;/h1&gt;
-&lt;p&gt;1.使用latex翻譯odoo文章&lt;a href="https://github.com/Njniaaaa/cd2024/files/14942750/Ch5.pdf"&gt;W4翻譯Odoo文章&lt;/a&gt;&lt;br&gt;&lt;/p&gt;</content><category term="41123213 W4"></category><category term="網誌編寫"></category></entry><entry><title>41123203 W4</title><link href="./41123203%20w4.html" rel="alternate"></link><published>2024-03-14T15:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-14:./41123203 w4.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+&lt;p&gt;1.使用latex翻譯odoo文章&lt;a href="https://github.com/Njniaaaa/cd2024/files/14942750/Ch5.pdf"&gt;W4翻譯Odoo文章&lt;/a&gt;&lt;br&gt;&lt;/p&gt;</content><category term="41123213 bg5 W4"></category><category term="網誌編寫"></category></entry><entry><title>41123203 bg5 W4</title><link href="./41123203%20bg5%20w4.html" rel="alternate"></link><published>2024-03-14T15:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123203</name></author><id>tag:None,2024-03-14:./41123203 bg5 w4.html</id><summary type="html">&lt;p&gt;2024 Spring 每週心得&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 每週心得&lt;/p&gt;
+
+
+&lt;h1&gt;W4網誌心得&lt;/h1&gt;
+&lt;p&gt;這周老師讓我們運用Codespaces 來維護倉儲內容，執行倉儲內的靜態網站檢視。過程中我發現Replit 提供了一個簡潔的編輯器，讓我可以輕鬆地編輯，還可以同時在同一個界面中預覽我的網站。讓我可以專注於編寫，而不必擔心繁瑣的設置或配置。是個很棒的程式。&lt;/p&gt;</content><category term="41123203 bg5 w4"></category><category term="網誌編寫"></category></entry><entry><title>41136124 w4</title><link href="./41136124%20w4.html" rel="alternate"></link><published>2024-03-14T15:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-14:./41136124 w4.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;h1&gt;W4網誌&lt;/h1&gt;
+&lt;p&gt;建立各組組員分別之子模組&lt;/p&gt;</content><category term="41136124 w4"></category><category term="網誌編寫"></category></entry><entry><title>41123202 bg5 w4</title><link href="./41123202%20bg5%20w4.html" rel="alternate"></link><published>2024-03-14T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123202</name></author><id>tag:None,2024-03-14:./41123202 bg5 w4.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 
 
 &lt;h1&gt;W4網誌心得&lt;/h1&gt;
-&lt;p&gt;這周老師讓我們運用Codespaces 來維護倉儲內容，執行倉儲內的靜態網站檢視。過程中我發現Replit 提供了一個簡潔的編輯器，讓我可以輕鬆地編輯，還可以同時在同一個界面中預覽我的網站。讓我可以專注於編寫，而不必擔心繁瑣的設置或配置。是個很棒的程式。&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>41123202 w4</title><link href="./41123202%20w4.html" rel="alternate"></link><published>2024-03-14T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-14:./41123202 w4.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
-
-
-&lt;h1&gt;W4網誌心得&lt;/h1&gt;
-&lt;p&gt;第四週中各分組需要確立各組員分工，使用Source Tree可以讓團隊成員更直觀地查看倉儲的變化及分支的建立，實現同時進行多個任務和功能開發，而不會互相干擾。每個分支都可以專注於一個特定的任務或功能，從而更好地管理和追蹤進度。另一方面，如果需要檢視動態網站，則可以Replit執行 python3 main.py 或使用 Replit 平台提供的 Run 按鍵。&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>41123206 w4</title><link href="./41123206%20w4.html" rel="alternate"></link><published>2024-03-14T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-14:./41123206 w4.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;第四週中各分組需要確立各組員分工，實現同時進行多個任務和功能開發，而不會互相干擾。每個分支都可以專注於一個特定的任務或功能，從而更好地管理和追蹤進度。另一方面，如果需要檢視動態網站，則可以Replit執行 python3 main.py。當然不只有Replit用github codespace也是可以的先建自己的分支，再來合併完全沒有問題。&lt;/p&gt;
+&lt;h1&gt;更新倉儲&lt;/h1&gt;
+&lt;p&gt;透過看老師的教學影片學到如果要更新倉儲有以下指令
+1 ./gen_blog
+2 git add .
+3 git commit -m "內容"
+4 git push
+例外如果遇到錯誤可以看看git pull來看哪裡出了差錯&lt;/p&gt;</content><category term="41123202 bg5 w4"></category><category term="網誌編寫"></category></entry><entry><title>41123206 w4</title><link href="./41123206%20w4.html" rel="alternate"></link><published>2024-03-14T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-14:./41123206 w4.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
 &lt;h1&gt;第四周網誌&lt;/h1&gt;
-&lt;p&gt;組別分工分好了, 隨著各組協同設計流程的進行, 分組倉儲與網站的改版越發複雜, 此時若導入 Source Tree 協助各組員更清楚看到倉儲改版架構, 另外 Git Branch 的應用.&lt;/p&gt;</content><category term="41123206 w4"></category><category term="網誌編寫"></category></entry><entry><title>41123220 w3</title><link href="./41123220%20w3.html" rel="alternate"></link><published>2024-03-14T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>koml</name></author><id>tag:None,2024-03-14:./41123220 w3.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;組別分工分好了, 隨著各組協同設計流程的進行, 分組倉儲與網站的改版越發複雜, 此時若導入 Source Tree 協助各組員更清楚看到倉儲改版架構, 另外 Git Branch 的應用.&lt;/p&gt;</content><category term="41123206 w4"></category><category term="網誌編寫"></category></entry><entry><title>41123220 bg5 w3</title><link href="./41123220%20bg5%20w3.html" rel="alternate"></link><published>2024-03-14T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123220</name></author><id>tag:None,2024-03-14:./41123220 bg5 w3.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程心得.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程心得.&lt;/p&gt;
 
 
 &lt;h1&gt;第三週作業&lt;/h1&gt;
@@ -188,7 +430,7 @@
 &lt;p&gt;1.利用 Github Classroom 指定分組倉儲&lt;br&gt;
 2.利用 Codespaces 維護倉儲與網站&lt;br&gt;
 3.設定網誌&lt;br&gt;
-所有任務均已完成!&lt;/p&gt;</content><category term="41123220 w3"></category><category term="網誌編寫"></category></entry><entry><title>41123222 w4</title><link href="./41123222%20w4.html" rel="alternate"></link><published>2024-03-14T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>41123222</name></author><id>tag:None,2024-03-14:./41123222 w4.html</id><summary type="html">&lt;p&gt;2024 Spring 每周網誌心得.&lt;/p&gt;
+所有任務均已完成!&lt;/p&gt;</content><category term="41123220 bg5 w3"></category><category term="網誌編寫"></category></entry><entry><title>41123222 w4</title><link href="./41123222%20w4.html" rel="alternate"></link><published>2024-03-14T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123222</name></author><id>tag:None,2024-03-14:./41123222 w4.html</id><summary type="html">&lt;p&gt;2024 Spring 每周網誌心得.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 每周網誌心得.&lt;/p&gt;
 
 
@@ -210,32 +452,33 @@
 &lt;li&gt;git commit -m"xxx"&lt;/li&gt;
 &lt;li&gt;git push即可以完成推&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;更新網誌則要多增加一條 ./gen_blog&lt;/p&gt;</content><category term="41123222 bg5 w4"></category><category term="網誌編寫"></category></entry><entry><title>41123223 w4</title><link href="./41123223%20w4.html" rel="alternate"></link><published>2024-03-14T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-14:./41123223 w4.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;更新網誌則要多增加一條 ./gen_blog&lt;/p&gt;</content><category term="41123222 bg5 w4"></category><category term="網誌編寫"></category></entry><entry><title>41123223 bg5 w4</title><link href="./41123223%20bg5%20w4.html" rel="alternate"></link><published>2024-03-14T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>CHI-23</name></author><id>tag:None,2024-03-14:./41123223 bg5 w4.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
 &lt;h1&gt;w4網誌&lt;/h1&gt;
-&lt;p&gt;分完組後每個組員各自完成組長分配的任務也導入了Source Tree 協助各組員更清楚看到倉儲改版架構。&lt;/p&gt;</content><category term="41123223 w4"></category><category term="網誌編寫"></category></entry><entry><title>41136124 w4</title><link href="./41136124%20w4.html" rel="alternate"></link><published>2024-03-07T15:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-07:./41136124 w4.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-&lt;h1&gt;W3網誌&lt;/h1&gt;
-&lt;p&gt;建立各組組員分別之子模組&lt;/p&gt;</content><category term="41136124 w4"></category><category term="網誌編寫"></category></entry><entry><title>41123202 w3</title><link href="./41123202%20w3.html" rel="alternate"></link><published>2024-03-07T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-07:./41123202 w3.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+&lt;p&gt;分完組後每個組員各自完成組長分配的任務也導入了Source Tree 協助各組員更清楚看到倉儲改版架構。&lt;/p&gt;</content><category term="41123223 bg5 w4"></category><category term="網誌編寫"></category></entry><entry><title>41123202 bg5 w3</title><link href="./41123202%20bg5%20w3.html" rel="alternate"></link><published>2024-03-07T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123202</name></author><id>tag:None,2024-03-07:./41123202 bg5 w3.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 
 
 &lt;h1&gt;W3網誌心得&lt;/h1&gt;
-&lt;p&gt;在第三週我們主要探討了如何善用 GitHub Codespaces與Gitpod 進行協同開發，並將組員的倉儲設為分組倉儲的子模組。同時，我們還導入了LaTeX轉 PDF 的機制，有助於製作期中分組報告&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>41123203 W3</title><link href="./41123203%20w3.html" rel="alternate"></link><published>2024-03-07T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-07:./41123203 w3.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+&lt;p&gt;在第三週我們主要探討了如何善用 GitHub Codespaces與Gitpod 進行協同開發，並將組員的倉儲設為分組倉儲的子模組。同時，我們還導入了LaTeX轉 PDF的機制，有助於製作期中分組報告
+Github Codespaces 與 Gitpod 兩個工具提供了基於雲端的開發環境，能夠幫助團隊輕鬆共享開發環境，並實現即時協同編輯。這對於跨地區、跨時區的團隊合作特別有用，讓成員可以隨時隨地進行開發和編輯工作。子模組使得所有相關的專案都能夠保持同步，並且能夠方便地進行版本控制和管理。這樣的設定使得團隊成員能夠更加簡單地共享代碼、資源和文件並導入LaTeX轉PDF製作期中分組報告。&lt;/p&gt;
+&lt;h1&gt;如何將自己的倉儲加到bg5&lt;/h1&gt;
+&lt;p&gt;打上 git submodules add 自己github網址.git 41123202&lt;/p&gt;
+&lt;h1&gt;Latex翻譯&lt;/h1&gt;
+&lt;p&gt;自己是擔任多頁的翻譯，視做一個流水線的動作，翻譯完給其他人完全達到協同的需要，自己則是用chatgpt來做翻譯&lt;/p&gt;</content><category term="41123202 bg5 w3"></category><category term="網誌編寫"></category></entry><entry><title>41123203 bg5 W3</title><link href="./41123203%20bg5%20w3.html" rel="alternate"></link><published>2024-03-07T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123203</name></author><id>tag:None,2024-03-07:./41123203 bg5 w3.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 
 
 &lt;h1&gt;W3網誌心得&lt;/h1&gt;
-&lt;p&gt;這個禮拜我們將個人倉儲納入分組倉儲，讓我們可以更好統一代碼，方便版本控制和操作。子模組讓我們可以更方便的合作，可以先在自己的個人倉儲中進行，然後再集成到分組倉儲中。透過這次分組活動我覺得我們更有凝聚力!&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>41123206 w3</title><link href="./41123206%20w3.html" rel="alternate"></link><published>2024-03-07T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-07:./41123206 w3.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;這個禮拜我們將個人倉儲納入分組倉儲，讓我們可以更好統一代碼，方便版本控制和操作。子模組讓我們可以更方便的合作，可以先在自己的個人倉儲中進行，然後再集成到分組倉儲中。透過這次分組活動我覺得我們更有凝聚力!&lt;/p&gt;</content><category term="41123203 bg5 w3"></category><category term="網誌編寫"></category></entry><entry><title>41123206 w3</title><link href="./41123206%20w3.html" rel="alternate"></link><published>2024-03-07T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-07:./41123206 w3.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
 &lt;h1&gt;第三周網誌&lt;/h1&gt;
-&lt;p&gt;利用 Github Codespaces 與 Gitpod, 以及將組員倉儲設為分組倉儲的子模組, 同時導入 LaTeX 轉 pdf 機制, 啟動期中分組報告的製作.&lt;/p&gt;</content><category term="41123206 w3"></category><category term="網誌編寫"></category></entry><entry><title>41123220 w2</title><link href="./41123220%20w2.html" rel="alternate"></link><published>2024-03-07T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>koml</name></author><id>tag:None,2024-03-07:./41123220 w2.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;利用 Github Codespaces 與 Gitpod, 以及將組員倉儲設為分組倉儲的子模組, 同時導入 LaTeX 轉 pdf 機制, 啟動期中分組報告的製作.&lt;/p&gt;</content><category term="41123206 w3"></category><category term="網誌編寫"></category></entry><entry><title>41123220 bg5 w2</title><link href="./41123220%20bg5%20w2.html" rel="alternate"></link><published>2024-03-07T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123220</name></author><id>tag:None,2024-03-07:./41123220 bg5 w2.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程心得.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程心得.&lt;/p&gt;
 
 
 &lt;h1&gt;第二週作業&lt;/h1&gt;
@@ -243,7 +486,7 @@
 1.利用 Github Classroom 指定分組倉儲&lt;br&gt;
 2.利用 Codespaces 維護倉儲與網站&lt;br&gt;
 3.設定網誌&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;我是擔任第5組的組長，所以建立分組倉儲是我的任務，這次建的倉儲和以前不一樣，是從空白開始建的，難度將會大大提升，所幸最後還是順利用出來了!&lt;/p&gt;</content><category term="41123220 w2"></category><category term="網誌編寫"></category></entry><entry><title>41123222 w3</title><link href="./41123222%20w3.html" rel="alternate"></link><published>2024-03-07T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>41123222</name></author><id>tag:None,2024-03-07:./41123222 w3.html</id><summary type="html">&lt;p&gt;2024 Spring 每周網誌心得.&lt;/p&gt;
+&lt;p&gt;我是擔任第5組的組長，所以建立分組倉儲是我的任務，這次建的倉儲和以前不一樣，是從空白開始建的，難度將會大大提升，所幸最後還是順利用出來了!&lt;/p&gt;</content><category term="41123220 bg5 w2"></category><category term="網誌編寫"></category></entry><entry><title>41123222 w3</title><link href="./41123222%20w3.html" rel="alternate"></link><published>2024-03-07T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123222</name></author><id>tag:None,2024-03-07:./41123222 w3.html</id><summary type="html">&lt;p&gt;2024 Spring 每周網誌心得.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 每周網誌心得.&lt;/p&gt;
 
 
@@ -273,50 +516,50 @@
 &lt;p&gt;這樣latex格式hw就大致完成剩餘翻譯用chatgpt來做。&lt;/p&gt;
 &lt;h1&gt;新增子模組至bg5&lt;/h1&gt;
 &lt;p&gt;打上 git submodules add 自己github網址.git 41123222&lt;/p&gt;
-&lt;p&gt;就能新增至群組。&lt;/p&gt;</content><category term="41123222 bg5 w3"></category><category term="網誌編寫"></category></entry><entry><title>41123223 w3</title><link href="./41123223%20w3.html" rel="alternate"></link><published>2024-03-07T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-07:./41123223 w3.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;就能新增至群組。&lt;/p&gt;</content><category term="41123222 bg5 w3"></category><category term="網誌編寫"></category></entry><entry><title>41123223 bg5 w3</title><link href="./41123223%20bg5%20w3.html" rel="alternate"></link><published>2024-03-07T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>CHI-23</name></author><id>tag:None,2024-03-07:./41123223 bg5 w3.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
 &lt;h1&gt;w3網誌&lt;/h1&gt;
-&lt;p&gt;第三周主要說明用Github Codespaces和Gitpod,和把組員倉儲設為分組的倉儲，用來期中報告的。&lt;/p&gt;</content><category term="41123223 w3"></category><category term="網誌編寫"></category></entry><entry><title>41123202 w2</title><link href="./41123202%20w2.html" rel="alternate"></link><published>2024-02-29T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-29:./41123202 w2.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+&lt;p&gt;第三周主要說明用Github Codespaces和Gitpod,和把組員倉儲設為分組的倉儲，用來期中報告的。&lt;/p&gt;</content><category term="41123223 bg5 w3"></category><category term="網誌編寫"></category></entry><entry><title>41123202 bg5 w2</title><link href="./41123202%20bg5%20w2.html" rel="alternate"></link><published>2024-02-29T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123202</name></author><id>tag:None,2024-02-29:./41123202 bg5 w2.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 
 
 &lt;h1&gt;W2網誌心得&lt;/h1&gt;
-&lt;p&gt;利用Github Classroom進行協同分組，並在Github Codespaces維護個人或分組網站內容，且近端執行動態網站，利用近端可攜系統維護分組網站，同時Github Codespase提供了一個無需本地開發環境即可編輯和測試代碼的方便方法，近端可攜系，統無需依賴特定的工作站或設備任何地方都能夠方便地繼續你的開發作業。&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry><entry><title>41123203 W2</title><link href="./41123203%20w2.html" rel="alternate"></link><published>2024-02-29T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-29:./41123203 w2.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+&lt;p&gt;利用Github Classroom進行協同分組，並在Github Codespaces維護個人或分組網站內容，且近端執行動態網站，利用近端可攜系統維護分組網站，同時Github Codespase提供了開發環境即可編輯和測試代碼的方便方法，統無需依賴特定的工作站或設備任何地方都能夠方便地繼續你的開發作業，在做這門課時可以問問同組的意見再透過協同使用codespace來更新群組的blog，更厲害的是不只可以更新自己，也可以從群組將自己blog推上去，方便老師觀看每周心得&lt;/p&gt;</content><category term="41123202 bg5 w2"></category><category term="網誌編寫"></category></entry><entry><title>41123203 bg5 W2</title><link href="./41123203%20bg5%20w2.html" rel="alternate"></link><published>2024-02-29T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123203</name></author><id>tag:None,2024-02-29:./41123203 bg5 w2.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 
 
 &lt;h1&gt;W2網誌心得&lt;/h1&gt;
-&lt;p&gt;使用 GitHub Codespaces 維護個人和分組網站帶來了許多好處。不僅簡化了開發流程，還提高了團隊合作效率，也減少了許多環境配置的麻煩。我學到了如何在雲端開發環境中進行有效的協作，並且意識到了這對於提高生產力和代碼質量的重要性。也上了一堂很有挑戰但過程很有趣的課。&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry><entry><title>41123206 w2</title><link href="./41123206%20w2.html" rel="alternate"></link><published>2024-02-29T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-29:./41123206 w2.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;使用 GitHub Codespaces 維護個人和分組網站帶來了許多好處。不僅簡化了開發流程，還提高了團隊合作效率，也減少了許多環境配置的麻煩。我學到了如何在雲端開發環境中進行有效的協作，並且意識到了這對於提高生產力和代碼質量的重要性。也上了一堂很有挑戰但過程很有趣的課。&lt;/p&gt;</content><category term="41123203 bg5 w2"></category><category term="網誌編寫"></category></entry><entry><title>41123206 w2</title><link href="./41123206%20w2.html" rel="alternate"></link><published>2024-02-29T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-29:./41123206 w2.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
 &lt;h1&gt;第二周網誌&lt;/h1&gt;
-&lt;p&gt;利用 Github Classroom 進行分組, 並且利用 Github Codespaces 維護個人與分組網站.&lt;/p&gt;</content><category term="41123206 w2"></category><category term="網誌編寫"></category></entry><entry><title>41123222 w2</title><link href="./41123222%20w2.html" rel="alternate"></link><published>2024-02-29T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>41123222</name></author><id>tag:None,2024-02-29:./41123222 w2.html</id><summary type="html">&lt;p&gt;2024 Spring 每周網誌心得.&lt;/p&gt;
+&lt;p&gt;利用 Github Classroom 進行分組, 並且利用 Github Codespaces 維護個人與分組網站.&lt;/p&gt;</content><category term="41123206 w2"></category><category term="網誌編寫"></category></entry><entry><title>41123222 w2</title><link href="./41123222%20w2.html" rel="alternate"></link><published>2024-02-29T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123222</name></author><id>tag:None,2024-02-29:./41123222 w2.html</id><summary type="html">&lt;p&gt;2024 Spring 每周網誌心得.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 每周網誌心得.&lt;/p&gt;
 
 
 &lt;h1&gt;w2網誌心得&lt;/h1&gt;
 &lt;p&gt;在第二周用Github Classroom加入分組倉儲，且選出了組長
-用codespace 維護群組倉儲網站，這也是第一次寫網誌&lt;/p&gt;</content><category term="41123222 bg5 w2"></category><category term="網誌編寫"></category></entry><entry><title>41123223 w2</title><link href="./41123223%20w2.html" rel="alternate"></link><published>2024-02-29T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-29:./41123223 w2.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+用codespace 維護群組倉儲網站，這也是第一次寫網誌&lt;/p&gt;</content><category term="41123222 bg5 w2"></category><category term="網誌編寫"></category></entry><entry><title>41123223 bg5 w2</title><link href="./41123223%20bg5%20w2.html" rel="alternate"></link><published>2024-02-29T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>CHI-23</name></author><id>tag:None,2024-02-29:./41123223 bg5 w2.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
 &lt;h1&gt;w2網誌&lt;/h1&gt;
-&lt;p&gt;第二周老師教我們用github classroom分組，還有如何使用Github Codespaces。&lt;/p&gt;</content><category term="41123223 w2"></category><category term="網誌編寫"></category></entry><entry><title>41136124 w3</title><link href="./41136124%20w3.html" rel="alternate"></link><published>2024-02-29T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-29:./41136124 w3.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;第二周老師教我們用github classroom分組，還有如何使用Github Codespaces。&lt;/p&gt;</content><category term="41123223 bg5 w2"></category><category term="網誌編寫"></category></entry><entry><title>41136124 w3</title><link href="./41136124%20w3.html" rel="alternate"></link><published>2024-02-29T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-29:./41136124 w3.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
-&lt;h1&gt;W2網誌&lt;/h1&gt;
-&lt;p&gt;建立各組分組之網站&lt;/p&gt;</content><category term="41136124 w3"></category><category term="網誌編寫"></category></entry><entry><title>41123213 W2</title><link href="./41123213%20W2.html" rel="alternate"></link><published>2024-02-29T02:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-29:./41123213 W2.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;h1&gt;W3網誌&lt;/h1&gt;
+&lt;p&gt;建立各組分組之網站&lt;/p&gt;</content><category term="41136124 w3"></category><category term="網誌編寫"></category></entry><entry><title>41123213 bg5 W2</title><link href="./41123213%20bg5%20W2.html" rel="alternate"></link><published>2024-02-29T02:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123213</name></author><id>tag:None,2024-02-29:./41123213 bg5 W2.html</id><summary type="html">&lt;p&gt;W2 分組與維護倉儲&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W2 分組與維護倉儲&lt;/p&gt;
 
 
 &lt;h1&gt;W2進度&lt;/h1&gt;
 &lt;p&gt;1.設定網誌,並增加自己的Github至組別&lt;br&gt;
-2.維護並更新Github網誌&lt;br&gt;&lt;/p&gt;</content><category term="41123213 W2"></category><category term="網誌編寫"></category></entry><entry><title>41123213 W3</title><link href="./41123213%20W3.html" rel="alternate"></link><published>2024-02-29T02:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-29:./41123213 W3.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+2.維護並更新Github網誌&lt;br&gt;&lt;/p&gt;</content><category term="41123213 bg5 W2"></category><category term="網誌編寫"></category></entry><entry><title>41123213 bg5 W3</title><link href="./41123213%20bg5%20W3.html" rel="alternate"></link><published>2024-02-29T02:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123213</name></author><id>tag:None,2024-02-29:./41123213 bg5 W3.html</id><summary type="html">&lt;p&gt;W3 建立子模組與利用可攜程式編譯Latex&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W3 建立子模組與利用可攜程式編譯Latex&lt;/p&gt;
 
 
 &lt;h1&gt;W3進度&lt;/h1&gt;
@@ -329,28 +572,29 @@
 41123222&lt;br&gt;
 41123223&lt;br&gt;
 41123224&lt;br&gt;
-2.協助製作其中分組報告&lt;/p&gt;</content><category term="41123213 W3"></category><category term="網誌編寫"></category></entry><entry><title>41123206 w1</title><link href="./41123206%20w1.html" rel="alternate"></link><published>2024-02-22T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-22:./41123206 w1.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+2.協助製作其中分組報告&lt;/p&gt;</content><category term="41123213 bg5 W3"></category><category term="網誌編寫"></category></entry><entry><title>41123206 w1</title><link href="./41123206%20w1.html" rel="alternate"></link><published>2024-02-22T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-22:./41123206 w1.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
 &lt;h1&gt;第一周網誌&lt;/h1&gt;
-&lt;p&gt;第一周創了這學期的github帳號，建立cd2024。加入了onedrive teams。&lt;/p&gt;</content><category term="41123206 w1"></category><category term="網誌編寫"></category></entry><entry><title>41123223 w1</title><link href="./41123223%20w1.html" rel="alternate"></link><published>2024-02-22T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-22:./41123223 w1.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;第一周創了這學期的github帳號，建立cd2024。加入了onedrive teams。&lt;/p&gt;</content><category term="41123206 w1"></category><category term="網誌編寫"></category></entry><entry><title>41123223 bg5 w1</title><link href="./41123223%20bg5%20w1.html" rel="alternate"></link><published>2024-02-22T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>CHI-23</name></author><id>tag:None,2024-02-22:./41123223 bg5 w1.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
 &lt;h1&gt;w1網誌&lt;/h1&gt;
-&lt;p&gt;第一周經過了一番波折終於創好了組別 還創好了github的倉儲&lt;/p&gt;</content><category term="41123223 w1"></category><category term="網誌編寫"></category></entry><entry><title>41136124 w2</title><link href="./41136124%20w2.html" rel="alternate"></link><published>2024-02-22T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-22:./41136124 w2.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;第一周經過了一番波折終於創好了組別 還創好了github的倉儲。&lt;/p&gt;</content><category term="41123223 bg5 w1"></category><category term="網誌編寫"></category></entry><entry><title>41136124 w2</title><link href="./41136124%20w2.html" rel="alternate"></link><published>2024-02-22T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-22:./41136124 w2.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
-&lt;h1&gt;w1網誌&lt;/h1&gt;
+
+&lt;h1&gt;w2網誌&lt;/h1&gt;
 &lt;p&gt;建個人課程倉儲 &lt;br&gt;
-利用倉儲作為 Template, 新增一個名稱為 cd2024 的倉儲, 並且將其 main 分支設為網頁根目錄.&lt;/p&gt;</content><category term="41136124 w2"></category><category term="網誌編寫"></category></entry><entry><title>41123213 W1</title><link href="./41123213%20W1.html" rel="alternate"></link><published>2024-02-22T10:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-22:./41123213 W1.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+利用倉儲作為 Template, 新增一個名稱為 cd2024 的倉儲, 並且將其 main 分支設為網頁根目錄.&lt;/p&gt;</content><category term="41136124 w2"></category><category term="網誌編寫"></category></entry><entry><title>41123213 bg5 W1</title><link href="./41123213%20bg5%20W1.html" rel="alternate"></link><published>2024-02-22T02:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123213</name></author><id>tag:None,2024-02-22:./41123213 bg5 W1.html</id><summary type="html">&lt;p&gt;W1 熟悉倉儲與使用&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W1 熟悉倉儲與使用&lt;/p&gt;
 
 
 &lt;h1&gt;W1進度&lt;/h1&gt;
 &lt;p&gt;1.創建Github帳號,並使用雙重認證&lt;br&gt;
-2.將Github丟置Replit編輯&lt;br&gt;&lt;/p&gt;</content><category term="41123213 w1"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+2.將Github丟置Replit編輯&lt;/p&gt;</content><category term="41123213 bg5 W1"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -614,7 +858,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w1"></category><category term="網誌編寫"></category></entry><entry><title>41123202 w1</title><link href="./41123202%20w1.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./41123202 w1.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w1"></category><category term="網誌編寫"></category></entry><entry><title>41123202 bg5 w1</title><link href="./41123202%20bg5%20w1.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123202</name></author><id>tag:None,2024-02-18:./41123202 bg5 w1.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 
 &lt;h1&gt;內容管理系統&lt;/h1&gt;
@@ -877,7 +1121,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w1"></category><category term="網誌編寫"></category></entry><entry><title>41123203 W1</title><link href="./41123203%20w1.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./41123203 w1.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="41123202 bg5 w1"></category><category term="網誌編寫"></category></entry><entry><title>41123203 bg5 W1</title><link href="./41123203%20bg5%20w1.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123203</name></author><id>tag:None,2024-02-18:./41123203 bg5 w1.html</id><summary type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 每周心得&lt;/p&gt;
 
 
@@ -1141,7 +1385,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w1"></category><category term="網誌編寫"></category></entry><entry><title>41123222 w1</title><link href="./41123222%20w1.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>41123222</name></author><id>tag:None,2024-02-18:./41123222 w1.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="41123203 bg5 w1"></category><category term="網誌編寫"></category></entry><entry><title>41123222 w1</title><link href="./41123222%20w1.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-06T06:56:33+08:00</updated><author><name>41123222</name></author><id>tag:None,2024-02-18:./41123222 w1.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
