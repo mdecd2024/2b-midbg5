@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計bg5 - 41123222 w3</title><link href="./" rel="alternate"></link><link href="./feeds/41123222-w3.atom.xml" rel="self"></link><id>./</id><updated>2024-04-17T14:00:19+08:00</updated><entry><title>41123222 w3</title><link href="./41123222%20w3.html" rel="alternate"></link><published>2024-03-07T11:00:00+08:00</published><updated>2024-04-17T14:00:19+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-07:./41123222 w3.html</id><summary type="html">&lt;p&gt;2024 Spring 每周網誌心得.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計bg5 - 41123222 bg5 w3</title><link href="./" rel="alternate"></link><link href="./feeds/41123222-bg5-w3.atom.xml" rel="self"></link><id>./</id><updated>2024-06-06T06:50:44+08:00</updated><entry><title>41123222 w3</title><link href="./41123222%20w3.html" rel="alternate"></link><published>2024-03-07T11:00:00+08:00</published><updated>2024-06-06T06:50:44+08:00</updated><author><name>41123222</name></author><id>tag:None,2024-03-07:./41123222 w3.html</id><summary type="html">&lt;p&gt;2024 Spring 每周網誌心得.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 每周網誌心得.&lt;/p&gt;
 
 
@@ -29,4 +29,4 @@
 &lt;p&gt;這樣latex格式hw就大致完成剩餘翻譯用chatgpt來做。&lt;/p&gt;
 &lt;h1&gt;新增子模組至bg5&lt;/h1&gt;
 &lt;p&gt;打上 git submodules add 自己github網址.git 41123222&lt;/p&gt;
-&lt;p&gt;就能新增至群組。&lt;/p&gt;</content><category term="41123222 w3"></category><category term="網誌編寫"></category></entry></feed>
+&lt;p&gt;就能新增至群組。&lt;/p&gt;</content><category term="41123222 bg5 w3"></category><category term="網誌編寫"></category></entry></feed>
